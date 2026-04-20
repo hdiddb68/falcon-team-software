@@ -1,0 +1,6 @@
+requests
+whois
+phonenumbers
+psutil
+pyttsx3
+speechrecognition
